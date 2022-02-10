@@ -77,7 +77,7 @@
     "less-loader": "^4.0.4",
     "manifest-revision-webpack-plugin": "^0.4.0",
     "mini-css-extract-plugin": "^0.4.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^2.1.6",
     "raw-loader": "^0.5.1",
     "sass-loader": "^7.0.3",
